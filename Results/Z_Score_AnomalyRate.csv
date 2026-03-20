@@ -1,0 +1,5 @@
+"Ship Mode",total_orders,anomalous_orders,anomaly_rate
+"Second Class",1886,0,0.000
+"Standard Class",5780,0,0.000
+"First Class",1501,1,0.001
+"Same Day",527,24,0.046
